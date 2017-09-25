@@ -1,0 +1,8 @@
+C:\Rag\SoftwareCraftsmanWorkshop\21072017\TShirtDesigner\TShirtDesigner\TShirtDesignerApp\bin\Debug\TShirtDesignerApp.exe
+C:\Rag\SoftwareCraftsmanWorkshop\21072017\TShirtDesigner\TShirtDesigner\TShirtDesignerApp\bin\Debug\TShirtDesigner.dll
+C:\Rag\SoftwareCraftsmanWorkshop\21072017\TShirtDesigner\TShirtDesigner\TShirtDesignerApp\bin\Debug\TShirtDesigner.pdb
+C:\Rag\SoftwareCraftsmanWorkshop\21072017\TShirtDesigner\TShirtDesigner\TShirtDesignerApp\obj\Debug\TShirtDesignerApp.csprojResolveAssemblyReference.cache
+C:\Rag\SoftwareCraftsmanWorkshop\21072017\TShirtDesigner\TShirtDesigner\TShirtDesignerApp\obj\Debug\TShirtDesignerApp.exe
+C:\Rag\SoftwareCraftsmanWorkshop\21072017\TShirtDesigner\TShirtDesigner\TShirtDesignerApp\obj\Debug\TShirtDesignerApp.pdb
+C:\Rag\SoftwareCraftsmanWorkshop\21072017\TShirtDesigner\TShirtDesigner\TShirtDesignerApp\bin\Debug\TShirtDesignerApp.exe.config
+C:\Rag\SoftwareCraftsmanWorkshop\21072017\TShirtDesigner\TShirtDesigner\TShirtDesignerApp\bin\Debug\TShirtDesignerApp.pdb

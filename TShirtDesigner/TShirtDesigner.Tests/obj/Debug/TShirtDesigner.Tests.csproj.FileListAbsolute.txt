@@ -1,0 +1,8 @@
+C:\Rag\SoftwareCraftsmanWorkshop\21072017\TShirtDesigner\TShirtDesigner\TShirtDesigner.Tests\bin\Debug\TShirtDesigner.Tests.dll
+C:\Rag\SoftwareCraftsmanWorkshop\21072017\TShirtDesigner\TShirtDesigner\TShirtDesigner.Tests\bin\Debug\TShirtDesigner.Tests.pdb
+C:\Rag\SoftwareCraftsmanWorkshop\21072017\TShirtDesigner\TShirtDesigner\TShirtDesigner.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Rag\SoftwareCraftsmanWorkshop\21072017\TShirtDesigner\TShirtDesigner\TShirtDesigner.Tests\bin\Debug\TShirtDesigner.dll
+C:\Rag\SoftwareCraftsmanWorkshop\21072017\TShirtDesigner\TShirtDesigner\TShirtDesigner.Tests\bin\Debug\TShirtDesigner.pdb
+C:\Rag\SoftwareCraftsmanWorkshop\21072017\TShirtDesigner\TShirtDesigner\TShirtDesigner.Tests\obj\Debug\TShirtDesigner.Tests.csprojResolveAssemblyReference.cache
+C:\Rag\SoftwareCraftsmanWorkshop\21072017\TShirtDesigner\TShirtDesigner\TShirtDesigner.Tests\obj\Debug\TShirtDesigner.Tests.dll
+C:\Rag\SoftwareCraftsmanWorkshop\21072017\TShirtDesigner\TShirtDesigner\TShirtDesigner.Tests\obj\Debug\TShirtDesigner.Tests.pdb
